@@ -10,7 +10,7 @@ function Card({ img, title, tech, description, repo, site }) {
             <section>
                 <h3> {title}</h3>
                 <p>
-                    <strong>Tecnologia:</strong>
+                    <strong>Tecnologia: </strong>
                     {tech}
                 </p>
                 <p>{description}</p>
