@@ -22,8 +22,8 @@ function Projects() {
                 title='Portfolio React'
                 tech='React'
                 description='Desenvolvimento de um portfolio utilizando react.'
-                repo='https://github.com/caiomarquesaraujo/projeto-landing-page'
-                site='https://desafiolandingpagearquiteturacm.netlify.app/'
+                repo='https://github.com/caiomarquesaraujo/portfolio-caiomarques-react'
+                site='https://portfolio-l7yppnffv-caiomarquesaraujo.vercel.app/'
             />
             <Card
                 img={triloco}
